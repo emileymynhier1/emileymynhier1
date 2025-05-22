@@ -25,10 +25,10 @@
   <a href="https://github.com/emileymynhier1">
     <img src="https://img.shields.io/badge/GitHub-@emileymynhier1-FFB6C1?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/emileymynhier1">
-    <img src="https://img.shields.io/badge/LinkedIn-@emily-mynhier-ADD8E6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/emily-mynhier">
+    <img src="https://img.shields.io/badge/LinkedIn-emily--mynhier-ADD8E6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:emilymynhier64@gmail.com>
+  <a href="mailto:emilymynhier64@gmail.com">
     <img src="https://img.shields.io/badge/Email-✉️%20Say Hi!-E6E6FA?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
