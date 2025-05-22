@@ -1,23 +1,38 @@
-## Hi there 👋  
-I’m **Emily Mynhier**, a Computer Scientist passionate about DevOps & software development.
+<!-- 🌸🌈✨ Super Cutesy Pastel Profile README ✨🌈🌸 -->
+
+<h1 align="center">🌷🌈 Hi there, I'm <span style="color:#FFB3BA;">Emily Mynhier</span>! 💖🌸</h1>
+<p align="center">
+  💻 Computer Scientist + DevOps Enthusiast 💻  
+  <br/>
+  ☕ Tea Lover | 🐦 Birdwatcher | 😺 Cat Cuddler | 📚 Bookworm | 🌱 Nature Fan | 🌌 Space Dreamer  
+</p>
 
 ---
 
-### ☕ Tea Brewing Timer  
-> Lightweight web timer that helps you steep green, black, oolong, or herbal teas perfectly—complete with fun facts & browser notifications!  
-🔨 **Status:** In development  
-🧰 **Tech:** React · Tailwind CSS · Vite · Browser Notifications API  
-📂 **Repo:** [emileymynhier1/tea-timer](https://github.com/emileymynhier1/tea-timer)  
-🚀 **Demo:** [emileymynhier1.github.io/tea-timer](https://emileymynhier1.github.io/tea-timer)
+<h2 align="center">🌸✨ What I'm Up To ✨🌸</h2>
+<p align="center">
+  ☕ <strong>Steeply</strong> — Cute pastel tea timer with fun facts & browser notifications 💕  
+  <br/>
+  🌱 <strong>Hollistic Healing</strong> — A cozy community wellness site on Firebase & Material UI 💝  
+  <br/>
+  🎨 More sweet side-projects coming soon… stay tuned! 💗
+</p>
 
 ---
 
-### 🌱 Hollistic Healing  
-> Community platform for sharing holistic wellness content.  
-🔨 **Status:** Live  
-🧰 **Tech:** React · Firebase · Material UI  
-🌐 **Site:** [tribewell-d4492.web.app](https://tribewell-d4492.web.app/)
+<h2 align="center">💌 Connect With Me 💌</h2>
+<p align="center">
+  <a href="https://github.com/emileymynhier1">
+    <img src="https://img.shields.io/badge/GitHub-@emileymynhier1-FFB6C1?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/emileymynhier1">
+    <img src="https://img.shields.io/badge/LinkedIn-@emileymynhier1-ADD8E6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-✉️%20Say Hi!-E6E6FA?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-*(More projects coming soon…)*  
+<p align="center">Made with 🌈 & 💕</p>
