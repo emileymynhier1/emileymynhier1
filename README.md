@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋  
+I’m **Emily Mynhier**, a Computer Scientist passionate about DevOps & software development.
 
-<!--
-**emileymynhier1/emileymynhier1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ☕ Tea Brewing Timer  
+> Lightweight web timer that helps you steep green, black, oolong, or herbal teas perfectly—complete with fun facts & browser notifications!  
+🔨 **Status:** In development  
+🧰 **Tech:** React · Tailwind CSS · Vite · Browser Notifications API  
+📂 **Repo:** [emileymynhier1/tea-timer](https://github.com/emileymynhier1/tea-timer)  
+🚀 **Demo:** [emileymynhier1.github.io/tea-timer](https://emileymynhier1.github.io/tea-timer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 Hollistic Healing  
+> Community platform for sharing holistic wellness content.  
+🔨 **Status:** Live  
+🧰 **Tech:** React · Firebase · Material UI  
+🌐 **Site:** [tribewell-d4492.web.app](https://tribewell-d4492.web.app/)
+
+---
+
+*(More projects coming soon…)*  
